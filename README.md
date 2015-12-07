@@ -1,0 +1,2 @@
+# diapotex
+TeX diapositives template
